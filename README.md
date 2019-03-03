@@ -1,6 +1,6 @@
 # Code_of_Competencies
 
-This repository contains codes and notebooks with exploration data of the different competency platforms, such as: Kaggle, Tianchi, etc. With these codes I learned some techniques or metodologies, I enjoyed a lot the challenges and the learning process. In addition, I have  put more codes with modifications in my original codes.
+This repository contains codes and notebooks with exploration data of the differents competency platforms, such as: Kaggle, Tianchi, etc. With these codes I learned some techniques or metodologies, I enjoyed a lot the challenges and the learning process. In addition, I have  put more codes with modifications in my original codes.
 
 The list is short, since generally in each competition I develop between 50 to 100 different models, different characteristics and techniques, and I do not want to put all the codes here.
 
