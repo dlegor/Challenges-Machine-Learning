@@ -8,7 +8,7 @@ Especially with these codes I learned something that helped me improve my abilit
 
 ## In Kaggle
 
- * [Instacar]()https://github.com/dlegor/Code_of_Competencies/tree/master/Kaggle/Instacar)
+ * [Instacar](https://github.com/dlegor/Code_of_Competencies/tree/master/Kaggle/Instacar)
  * [Toxic Comment Classification](https://github.com/dlegor/Code_of_Competencies/tree/master/Kaggle/Toxic_Comment_Classification)
  * [Avito](https://github.com/dlegor/Code_of_Competencies/tree/master/Kaggle/Avito)
  * [Home Credit](https://github.com/dlegor/Code_of_Competencies/tree/master/Kaggle/Home_Credit_Default_Risk)
